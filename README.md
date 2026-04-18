@@ -26,3 +26,5 @@
 - Admin có quyền Khóa/Mở khóa người dùng tức thì.
 - Chế độ bảo vệ tài khoản đang đăng nhập.
 <img width="1387" height="881" alt="hethong1" src="https://github.com/user-attachments/assets/9be86492-d6b5-466b-a8c7-d670c37f1ef7" />
+<img width="1387" height="842" alt="hethong2" src="https://github.com/user-attachments/assets/dac08e03-dc28-4e78-b928-f5c069822fe7" />
+<img width="1375" height="861" alt="hethong3" src="https://github.com/user-attachments/assets/8481f934-34ec-48e5-9643-a5e3df0f17e1" />
